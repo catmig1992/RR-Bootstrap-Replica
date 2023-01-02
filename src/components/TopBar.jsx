@@ -14,7 +14,7 @@ export default function TopBar() {
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="mr-auto"></Nav>
+          <Nav className="me-auto"></Nav>
           <Nav
             style={{
               padding: "24px 40px 20px 40px",

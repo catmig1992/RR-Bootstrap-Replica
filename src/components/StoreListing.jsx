@@ -74,7 +74,7 @@ export default function StoreListings() {
               />
             </Col>
             <Col style={{ textAlign: "left" }}>
-              <h5 style={{ fontWeight: "bold" }}>Kroger</h5>
+              <h5 style={{ fontWeight: "bold" }}>HEB</h5>
               <p>Delivery</p>
             </Col>
           </Row>
